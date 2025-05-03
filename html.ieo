@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dhakaia Gen-Z</title>
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; padding: 20px; background: #f3f3f3; }
+    h1 { color: #222; }
+    .names { font-weight: bold; margin-top: 10px; }
+    .description { margin: 15px 0; }
+    .links a {
+      display: inline-block; margin: 5px; padding: 10px 15px; background: #ff5722;
+      color: #fff; text-decoration: none; border-radius: 5px;
+    }
+    img.qr { margin-top: 20px; }
+  </style>
+</head>
+<body>
+  <h1>Dhakaia Gen-Z</h1>
+  <div class="names">Arafat Hossain & Shamim Hossain</div>
+  <p class="description">Welcome to Dhaka Gen-Z family. Please subscribe and follow our all social media.</p>
+  <div class="links">
+    <a href="https://youtube.com/@dhakaiagen-z?si=qZjF0YvgSDDhDIUk" target="_blank">YouTube</a>
+    <a href="https://www.facebook.com/share/1BErFtcaCL/" target="_blank">Facebook</a>
+    <a href="https://www.tiktok.com/@dhakaia.genz?_t=ZS-8w2fenaqAn1&_r=1" target="_blank">TikTok</a>
+    <a href="https://wa.me/8801973741868" target="_blank">WhatsApp</a>
+  </div>
+  <img class="qr" src="https://api.qrserver.com/v1/create-qr-code/?data=https://personalmail767.github.io&size=150x150" alt="QR Code">
+</body>
+</html>
